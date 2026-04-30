@@ -1,0 +1,7 @@
+print(int(3.9))
+print(int(-3.9))
+print(bool(0))
+print(bool(-1))
+print(bool([]))
+print(1 == True)
+print(2 == True) 
