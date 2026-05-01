@@ -19,5 +19,7 @@ print(lst)
 print(len(lst))
 print(lst[1])
 
-joined = "-".join(lst)
+joined = " ".join(lst)
 print(joined)
+
+# join korar rule hsse j .join dewar age ekta inverted comma er moddhe ekta spearator diye dite hbe..then join er pore j list k join krte hbe seta dite hbe
